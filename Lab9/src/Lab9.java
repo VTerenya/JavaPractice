@@ -3,4 +3,3 @@ class Lab9 {
         new MyFrame("Application");
     }
 }
-
